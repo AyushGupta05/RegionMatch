@@ -1,0 +1,698 @@
+[
+  {
+    "council_id": 1,
+    "council_name": "Bolton"
+  },
+  {
+    "council_id": 2,
+    "council_name": "Bradford"
+  },
+  {
+    "council_id": 3,
+    "council_name": "Bury"
+  },
+  {
+    "council_id": 4,
+    "council_name": "Calderdale"
+  },
+  {
+    "council_id": 5,
+    "council_name": "Doncaster"
+  },
+  {
+    "council_id": 6,
+    "council_name": "Gateshead"
+  },
+  {
+    "council_id": 7,
+    "council_name": "Knowsley"
+  },
+  {
+    "council_id": 8,
+    "council_name": "North Tyneside"
+  },
+  {
+    "council_id": 9,
+    "council_name": "Oldham"
+  },
+  {
+    "council_id": 10,
+    "council_name": "Rochdale"
+  },
+  {
+    "council_id": 11,
+    "council_name": "Salford"
+  },
+  {
+    "council_id": 12,
+    "council_name": "Sandwell"
+  },
+  {
+    "council_id": 13,
+    "council_name": "Sefton"
+  },
+  {
+    "council_id": 14,
+    "council_name": "Solihull"
+  },
+  {
+    "council_id": 15,
+    "council_name": "St Helens"
+  },
+  {
+    "council_id": 16,
+    "council_name": "Stockport"
+  },
+  {
+    "council_id": 17,
+    "council_name": "Trafford"
+  },
+  {
+    "council_id": 18,
+    "council_name": "Wakefield"
+  },
+  {
+    "council_id": 19,
+    "council_name": "Wigan"
+  },
+  {
+    "council_id": 20,
+    "council_name": "Wirral"
+  },
+  {
+    "council_id": 22,
+    "council_name": "Bexley"
+  },
+  {
+    "council_id": 23,
+    "council_name": "Bromley"
+  },
+  {
+    "council_id": 24,
+    "council_name": "Enfield"
+  },
+  {
+    "council_id": 25,
+    "council_name": "Royal Greenwich"
+  },
+  {
+    "council_id": 26,
+    "council_name": "Lambeth"
+  },
+  {
+    "council_id": 27,
+    "council_name": "Lewisham"
+  },
+  {
+    "council_id": 28,
+    "council_name": "Newham"
+  },
+  {
+    "council_id": 29,
+    "council_name": "Southwark"
+  },
+  {
+    "council_id": 30,
+    "council_name": "Sutton"
+  },
+  {
+    "council_id": 31,
+    "council_name": "Tower Hamlets"
+  },
+  {
+    "council_id": 32,
+    "council_name": "Adur and Worthing"
+  },
+  {
+    "council_id": 33,
+    "council_name": "Aylesbury Vale"
+  },
+  {
+    "council_id": 34,
+    "council_name": "Babergh and Mid-Suffolk"
+  },
+  {
+    "council_id": 35,
+    "council_name": "Basildon"
+  },
+  {
+    "council_id": 36,
+    "council_name": "Basingstoke and Deane"
+  },
+  {
+    "council_id": 37,
+    "council_name": "Bassetlaw"
+  },
+  {
+    "council_id": 38,
+    "council_name": "Blaby"
+  },
+  {
+    "council_id": 39,
+    "council_name": "Bolsover"
+  },
+  {
+    "council_id": 40,
+    "council_name": "Braintree"
+  },
+  {
+    "council_id": 41,
+    "council_name": "Brentwood"
+  },
+  {
+    "council_id": 43,
+    "council_name": "Burnley"
+  },
+  {
+    "council_id": 44,
+    "council_name": "Carlisle"
+  },
+  {
+    "council_id": 45,
+    "council_name": "Castlepoint"
+  },
+  {
+    "council_id": 46,
+    "council_name": "Chelmsford"
+  },
+  {
+    "council_id": 47,
+    "council_name": "Cheltenham"
+  },
+  {
+    "council_id": 48,
+    "council_name": "Chesterfield"
+  },
+  {
+    "council_id": 49,
+    "council_name": "Chichester"
+  },
+  {
+    "council_id": 51,
+    "council_name": "Chorley"
+  },
+  {
+    "council_id": 52,
+    "council_name": "Corby"
+  },
+  {
+    "council_id": 53,
+    "council_name": "Cotswold"
+  },
+  {
+    "council_id": 54,
+    "council_name": "Craven"
+  },
+  {
+    "council_id": 55,
+    "council_name": "Dacorum"
+  },
+  {
+    "council_id": 56,
+    "council_name": "Dartford"
+  },
+  {
+    "council_id": 57,
+    "council_name": "Derbyshire Dales"
+  },
+  {
+    "council_id": 58,
+    "council_name": "Dover"
+  },
+  {
+    "council_id": 59,
+    "council_name": "East Cambridgeshire"
+  },
+  {
+    "council_id": 60,
+    "council_name": "East Devon"
+  },
+  {
+    "council_id": 61,
+    "council_name": "East Hampshire"
+  },
+  {
+    "council_id": 62,
+    "council_name": "East Hertfordshire"
+  },
+  {
+    "council_id": 63,
+    "council_name": "East Lindsey"
+  },
+  {
+    "council_id": 64,
+    "council_name": "East Northamptonshire"
+  },
+  {
+    "council_id": 65,
+    "council_name": "East Suffolk"
+  },
+  {
+    "council_id": 66,
+    "council_name": "Lewes"
+  },
+  {
+    "council_id": 67,
+    "council_name": "Epsom Ewell"
+  },
+  {
+    "council_id": 68,
+    "council_name": "Exeter"
+  },
+  {
+    "council_id": 69,
+    "council_name": "Fenland"
+  },
+  {
+    "council_id": 70,
+    "council_name": "Folkestone and Hythe"
+  },
+  {
+    "council_id": 71,
+    "council_name": "Forest of Dean"
+  },
+  {
+    "council_id": 72,
+    "council_name": "Fylde"
+  },
+  {
+    "council_id": 73,
+    "council_name": "Gedling"
+  },
+  {
+    "council_id": 74,
+    "council_name": "Gloucester City"
+  },
+  {
+    "council_id": 75,
+    "council_name": "Gosport"
+  },
+  {
+    "council_id": 76,
+    "council_name": "Gravesham"
+  },
+  {
+    "council_id": 77,
+    "council_name": "Guildford"
+  },
+  {
+    "council_id": 78,
+    "council_name": "Hambleton"
+  },
+  {
+    "council_id": 79,
+    "council_name": "Harborough"
+  },
+  {
+    "council_id": 80,
+    "council_name": "Harlow"
+  },
+  {
+    "council_id": 81,
+    "council_name": "Harrogate"
+  },
+  {
+    "council_id": 82,
+    "council_name": "Hart"
+  },
+  {
+    "council_id": 83,
+    "council_name": "Hastings"
+  },
+  {
+    "council_id": 84,
+    "council_name": "Havant"
+  },
+  {
+    "council_id": 85,
+    "council_name": "Hinckley and Bosworth"
+  },
+  {
+    "council_id": 86,
+    "council_name": "Horsham"
+  },
+  {
+    "council_id": 87,
+    "council_name": "Huntingdonshire"
+  },
+  {
+    "council_id": 89,
+    "council_name": "Lancaster"
+  },
+  {
+    "council_id": 91,
+    "council_name": "Lichfield"
+  },
+  {
+    "council_id": 92,
+    "council_name": "Lincoln"
+  },
+  {
+    "council_id": 94,
+    "council_name": "Maldon"
+  },
+  {
+    "council_id": 95,
+    "council_name": "Mansfield"
+  },
+  {
+    "council_id": 96,
+    "council_name": "Melton"
+  },
+  {
+    "council_id": 97,
+    "council_name": "Mendip"
+  },
+  {
+    "council_id": 98,
+    "council_name": "Mid Devon"
+  },
+  {
+    "council_id": 100,
+    "council_name": "Mid Sussex"
+  },
+  {
+    "council_id": 101,
+    "council_name": "North East Derbyshire"
+  },
+  {
+    "council_id": 102,
+    "council_name": "North Hertfordshire"
+  },
+  {
+    "council_id": 103,
+    "council_name": "North Kesteven"
+  },
+  {
+    "council_id": 104,
+    "council_name": "North Norfolk"
+  },
+  {
+    "council_id": 105,
+    "council_name": "North West Leicestershire"
+  },
+  {
+    "council_id": 106,
+    "council_name": "New Forest"
+  },
+  {
+    "council_id": 107,
+    "council_name": "Newark and Sherwood"
+  },
+  {
+    "council_id": 108,
+    "council_name": "Newcastle-Under-Lyme"
+  },
+  {
+    "council_id": 109,
+    "council_name": "Norwich"
+  },
+  {
+    "council_id": 110,
+    "council_name": "Oadby and Wigston"
+  },
+  {
+    "council_id": 111,
+    "council_name": "Oxford"
+  },
+  {
+    "council_id": 112,
+    "council_name": "Pendle"
+  },
+  {
+    "council_id": 113,
+    "council_name": "Bromsgrove and Redditch"
+  },
+  {
+    "council_id": 114,
+    "council_name": "Reigate and Banstead"
+  },
+  {
+    "council_id": 115,
+    "council_name": "Richmondshire"
+  },
+  {
+    "council_id": 116,
+    "council_name": "Rossendale"
+  },
+  {
+    "council_id": 117,
+    "council_name": "Rushcliffe"
+  },
+  {
+    "council_id": 118,
+    "council_name": "Rushmoor"
+  },
+  {
+    "council_id": 119,
+    "council_name": "Ryedale"
+  },
+  {
+    "council_id": 120,
+    "council_name": "Buckinghamshire"
+  },
+  {
+    "council_id": 121,
+    "council_name": "South Norfolk and Broadland"
+  },
+  {
+    "council_id": 122,
+    "council_name": "South Ribble"
+  },
+  {
+    "council_id": 123,
+    "council_name": "South Somerset"
+  },
+  {
+    "council_id": 124,
+    "council_name": "South Staffordshire"
+  },
+  {
+    "council_id": 125,
+    "council_name": "Scarborough"
+  },
+  {
+    "council_id": 126,
+    "council_name": "Selby"
+  },
+  {
+    "council_id": 127,
+    "council_name": "Sevenoaks"
+  },
+  {
+    "council_id": 128,
+    "council_name": "Stafford"
+  },
+  {
+    "council_id": 129,
+    "council_name": "Stevenage"
+  },
+  {
+    "council_id": 130,
+    "council_name": "Stroud"
+  },
+  {
+    "council_id": 131,
+    "council_name": "Surrey Heath"
+  },
+  {
+    "council_id": 132,
+    "council_name": "Maidstone and Swale"
+  },
+  {
+    "council_id": 133,
+    "council_name": "Tendring"
+  },
+  {
+    "council_id": 134,
+    "council_name": "Test Valley"
+  },
+  {
+    "council_id": 135,
+    "council_name": "Tewkesbury"
+  },
+  {
+    "council_id": 136,
+    "council_name": "Thanet"
+  },
+  {
+    "council_id": 137,
+    "council_name": "Tonbridge and Malling"
+  },
+  {
+    "council_id": 138,
+    "council_name": "Torridge"
+  },
+  {
+    "council_id": 139,
+    "council_name": "Tunbridge Wells"
+  },
+  {
+    "council_id": 140,
+    "council_name": "Uttlesford"
+  },
+  {
+    "council_id": 141,
+    "council_name": "Warwick"
+  },
+  {
+    "council_id": 142,
+    "council_name": "Wellingborough"
+  },
+  {
+    "council_id": 143,
+    "council_name": "West Oxfordshire"
+  },
+  {
+    "council_id": 144,
+    "council_name": "West Suffolk"
+  },
+  {
+    "council_id": 145,
+    "council_name": "Winchester"
+  },
+  {
+    "council_id": 146,
+    "council_name": "Woking"
+  },
+  {
+    "council_id": 148,
+    "council_name": "Wycombe"
+  },
+  {
+    "council_id": 149,
+    "council_name": "Wyre"
+  },
+  {
+    "council_id": 150,
+    "council_name": "Bedford"
+  },
+  {
+    "council_id": 151,
+    "council_name": "Blackpool"
+  },
+  {
+    "council_id": 152,
+    "council_name": "Bracknell Forest"
+  },
+  {
+    "council_id": 153,
+    "council_name": "Brighton and Hove"
+  },
+  {
+    "council_id": 154,
+    "council_name": "Bristol"
+  },
+  {
+    "council_id": 155,
+    "council_name": "Cheshire West and Chester"
+  },
+  {
+    "council_id": 156,
+    "council_name": "Cornwall"
+  },
+  {
+    "council_id": 157,
+    "council_name": "Durham"
+  },
+  {
+    "council_id": 158,
+    "council_name": "Darlington"
+  },
+  {
+    "council_id": 159,
+    "council_name": "Derby"
+  },
+  {
+    "council_id": 160,
+    "council_name": "East Riding of Yorkshire"
+  },
+  {
+    "council_id": 161,
+    "council_name": "Isle of Wight"
+  },
+  {
+    "council_id": 162,
+    "council_name": "Luton"
+  },
+  {
+    "council_id": 163,
+    "council_name": "Medway"
+  },
+  {
+    "council_id": 164,
+    "council_name": "Middlesbrough"
+  },
+  {
+    "council_id": 165,
+    "council_name": "Milton-Keynes"
+  },
+  {
+    "council_id": 166,
+    "council_name": "North East Lincolnshire"
+  },
+  {
+    "council_id": 167,
+    "council_name": "North Somerset"
+  },
+  {
+    "council_id": 168,
+    "council_name": "Northumberland"
+  },
+  {
+    "council_id": 169,
+    "council_name": "Nottingham City"
+  },
+  {
+    "council_id": 170,
+    "council_name": "Peterborough"
+  },
+  {
+    "council_id": 171,
+    "council_name": "Plymouth"
+  },
+  {
+    "council_id": 172,
+    "council_name": "Portsmouth"
+  },
+  {
+    "council_id": 173,
+    "council_name": "Rutland"
+  },
+  {
+    "council_id": 174,
+    "council_name": "Shropshire"
+  },
+  {
+    "council_id": 175,
+    "council_name": "Southampton"
+  },
+  {
+    "council_id": 176,
+    "council_name": "Southend on Sea"
+  },
+  {
+    "council_id": 177,
+    "council_name": "South Gloucestershire"
+  },
+  {
+    "council_id": 178,
+    "council_name": "Stockton-On-Tees"
+  },
+  {
+    "council_id": 179,
+    "council_name": "Stoke-on-Trent"
+  },
+  {
+    "council_id": 180,
+    "council_name": "Swindon"
+  },
+  {
+    "council_id": 181,
+    "council_name": "Thurrock"
+  },
+  {
+    "council_id": 182,
+    "council_name": "Torbay"
+  }
+]

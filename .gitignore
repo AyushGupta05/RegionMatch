@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+
+# Secrets
+ibex_jwt.txt
+*.env
+
+
+
+# Large/raw outputs
+ibex_apps_raw.json
+*raw*.json
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.vscode/

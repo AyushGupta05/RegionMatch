@@ -1,0 +1,362 @@
+City,Job Liquidity Score (1-10),Reddit Sentiment Score (1-10)
+Babergh,5.0,5.0
+Basildon,6.2,6.0
+Bedford,6.0,6.1
+Braintree,5.0,5.0
+Breckland,4.7,5.0
+Brentwood,6.2,6.0
+Broadland,4.7,5.0
+Broxbourne,6.2,6.0
+Cambridge,8.2,8.3
+Castle Point,5.0,5.0
+Central Bedfordshire,6.0,6.1
+Chelmsford,6.2,6.0
+Colchester,6.0,6.1
+Dacorum,6.2,6.0
+East Cambridgeshire,6.2,6.0
+East Hertfordshire,6.2,6.0
+East Suffolk,4.7,5.0
+Epping Forest,6.2,6.0
+Fenland,4.7,5.0
+Great Yarmouth,4.2,3.8
+Harlow,5.0,5.0
+Hertsmere,6.2,6.0
+Huntingdonshire,4.7,5.0
+Ipswich,6.0,6.1
+King's Lynn and West Norfolk,4.7,5.0
+Luton,6.0,5.7
+Maldon,5.0,5.0
+Mid Suffolk,4.7,5.0
+North Hertfordshire,6.2,6.0
+North Norfolk,4.7,5.0
+Norwich,6.2,6.0
+Peterborough,6.2,6.0
+Rochford,6.2,6.0
+South Cambridgeshire,6.2,6.0
+South Norfolk,4.7,5.0
+Southend-on-Sea,6.2,6.0
+St Albans,6.8,6.6
+Stevenage,6.4,6.2
+Tendring,4.2,3.8
+Three Rivers,6.2,6.0
+Thurrock,6.2,6.0
+Uttlesford,6.2,6.0
+Watford,6.6,6.4
+Welwyn Hatfield,6.6,6.4
+West Suffolk,4.7,5.0
+Amber Valley,5.0,5.0
+Ashfield,5.0,5.0
+Bassetlaw,5.0,5.0
+Blaby,5.0,5.0
+Bolsover,5.0,5.0
+Boston,4.2,3.8
+Broxtowe,5.0,5.0
+Charnwood,5.0,5.0
+Chesterfield,5.0,5.0
+Derby,6.2,6.1
+Derbyshire Dales,5.0,5.0
+East Lindsey,4.2,3.8
+Erewash,5.0,5.0
+Gedling,5.0,5.0
+Harborough,5.0,5.0
+High Peak,5.0,5.0
+Hinckley and Bosworth,5.0,5.0
+Leicester,6.4,6.3
+Lincoln,6.0,6.1
+Mansfield,5.0,5.0
+Melton,5.0,5.0
+Newark and Sherwood,5.0,5.0
+North East Derbyshire,5.0,5.0
+North Kesteven,5.0,5.0
+North Northamptonshire,5.0,5.0
+North West Leicestershire,5.0,5.0
+Nottingham,6.8,6.6
+Oadby and Wigston,5.0,5.0
+Rushcliffe,5.0,5.0
+Rutland,5.0,5.0
+South Derbyshire,5.0,5.0
+South Holland,5.0,5.0
+South Kesteven,5.0,5.0
+West Lindsey,5.0,5.0
+West Northamptonshire,5.0,5.0
+Barking and Dagenham,7.8,7.2
+Barnet,7.8,7.2
+Bexley,7.8,7.2
+Brent,7.8,7.2
+Bromley,7.8,7.2
+Camden,9.0,8.2
+City of London,10.0,8.8
+Croydon,7.8,7.2
+Ealing,7.8,7.2
+Enfield,7.8,7.2
+Greenwich,7.8,7.2
+Hackney,8.8,8.1
+Hammersmith and Fulham,8.8,8.2
+Haringey,7.8,7.2
+Harrow,7.8,7.2
+Havering,7.8,7.2
+Hillingdon,7.8,7.2
+Hounslow,7.8,7.2
+Islington,8.8,8.1
+Kensington and Chelsea,8.8,8.2
+Kingston upon Thames,7.8,7.2
+Lambeth,8.8,8.2
+Lewisham,7.8,7.2
+Merton,7.8,7.2
+Newham,7.8,7.2
+Redbridge,7.8,7.2
+Richmond upon Thames,7.8,7.2
+Southwark,8.8,8.2
+Sutton,7.8,7.2
+Tower Hamlets,9.0,8.0
+Waltham Forest,7.8,7.2
+Wandsworth,8.8,8.2
+Westminster,9.0,8.0
+County Durham,6.2,6.0
+Darlington,5.0,5.0
+Gateshead,6.5,6.3
+Hartlepool,4.2,3.8
+Middlesbrough,6.2,6.0
+Newcastle upon Tyne,7.2,7.0
+North Tyneside,5.0,5.0
+Northumberland,5.0,5.0
+Redcar and Cleveland,4.2,3.8
+South Tyneside,5.0,5.0
+Stockton-on-Tees,5.0,5.0
+Sunderland,6.2,6.0
+Blackburn with Darwen,5.0,5.0
+Blackpool,4.2,3.8
+Bolton,5.0,5.0
+Burnley,5.0,5.0
+Bury,5.0,5.0
+Cheshire East,5.0,5.0
+Cheshire West and Chester,5.0,5.0
+Chorley,5.0,5.0
+Cumberland,5.0,5.0
+Fylde,4.2,3.8
+Halton,5.0,5.0
+Hyndburn,5.0,5.0
+Knowsley,5.0,5.0
+Lancaster,5.0,5.0
+Liverpool,6.2,6.0
+Manchester,8.8,8.4
+Oldham,5.0,5.0
+Pendle,5.0,5.0
+Preston,5.0,5.0
+Ribble Valley,5.0,5.0
+Rochdale,5.0,5.0
+Rossendale,5.0,5.0
+Salford,8.0,7.7
+Sefton,5.0,5.0
+South Ribble,5.0,5.0
+St. Helens,5.0,5.0
+Stockport,6.6,6.4
+Tameside,5.0,5.0
+Trafford,7.8,7.4
+Warrington,6.6,6.4
+West Lancashire,5.0,5.0
+Westmorland and Furness,5.0,5.0
+Wigan,5.0,5.0
+Wirral,5.0,5.0
+Wyre,4.2,3.8
+Antrim and Newtownabbey,5.0,5.0
+Ards and North Down,5.0,5.0
+"Armagh City,Banbridge and Craigavon",5.0,5.0
+Belfast,7.0,6.8
+Causeway Coast and Glens,5.0,5.0
+Derry City and Strabane,5.0,5.0
+Fermanagh and Omagh,5.0,5.0
+Lisburn and Castlereagh,5.0,5.0
+Mid Ulster,5.0,5.0
+Mid and East Antrim,5.0,5.0
+"Newry,Mourne and Down",5.0,5.0
+Aberdeen City,6.5,6.2
+Aberdeenshire,5.0,5.0
+Angus,5.0,5.0
+Argyll and Bute,3.8,4.5
+City of Edinburgh,7.2,7.3
+Clackmannanshire,5.0,5.0
+Dumfries and Galloway,3.8,4.5
+Dundee City,6.2,6.0
+East Ayrshire,5.0,5.0
+East Dunbartonshire,5.0,5.0
+East Lothian,5.0,5.0
+East Renfrewshire,5.0,5.0
+Falkirk,5.0,5.0
+Fife,5.0,5.0
+Glasgow City,7.4,7.2
+Highland,3.8,4.5
+Inverclyde,5.0,5.0
+Midlothian,5.0,5.0
+Moray,5.0,5.0
+Na h-Eileanan Siar,3.8,4.5
+North Ayrshire,5.0,5.0
+North Lanarkshire,5.0,5.0
+Orkney Islands,3.8,4.5
+Perth and Kinross,5.0,5.0
+Renfrewshire,5.0,5.0
+Scottish Borders,5.0,5.0
+Shetland Islands,3.8,4.5
+South Ayrshire,5.0,5.0
+South Lanarkshire,5.0,5.0
+Stirling,5.0,5.0
+West Dunbartonshire,5.0,5.0
+West Lothian,5.0,5.0
+Adur,5.0,5.0
+Arun,5.0,5.0
+Ashford,5.0,5.0
+Basingstoke and Deane,6.2,6.0
+Bracknell Forest,7.0,6.8
+Brighton and Hove,6.8,6.9
+Buckinghamshire,5.0,5.0
+Canterbury,6.0,6.1
+Cherwell,5.0,5.0
+Chichester,5.0,5.0
+Crawley,5.0,5.0
+Dartford,6.2,6.0
+Dover,5.0,5.0
+East Hampshire,5.0,5.0
+Eastbourne,5.0,5.0
+Eastleigh,5.0,5.0
+Elmbridge,6.2,6.0
+Epsom and Ewell,6.2,6.0
+Fareham,5.0,5.0
+Folkestone and Hythe,5.0,5.0
+Gosport,4.2,3.8
+Gravesham,6.2,6.0
+Guildford,6.8,6.6
+Hart,6.2,6.0
+Hastings,5.0,5.0
+Havant,5.0,5.0
+Horsham,5.0,5.0
+Isle of Wight,4.2,3.8
+Lewes,5.0,5.0
+Maidstone,5.0,5.0
+Medway,5.0,5.0
+Mid Sussex,5.0,5.0
+Milton Keynes,7.2,7.0
+Mole Valley,5.0,5.0
+New Forest,5.0,5.0
+Oxford,7.6,7.5
+Portsmouth,6.0,6.0
+Reading,7.8,7.6
+Reigate and Banstead,6.2,6.0
+Rother,5.0,5.0
+Runnymede,6.2,6.0
+Rushmoor,6.2,6.0
+Sevenoaks,6.2,6.0
+Slough,7.2,6.6
+South Oxfordshire,5.0,5.0
+Southampton,6.4,6.2
+Spelthorne,6.2,6.0
+Surrey Heath,6.2,6.0
+Swale,5.0,5.0
+Tandridge,6.2,6.0
+Test Valley,5.0,5.0
+Thanet,4.2,3.8
+Tonbridge and Malling,6.2,6.0
+Tunbridge Wells,6.2,6.0
+Vale of White Horse,5.0,5.0
+Waverley,5.0,5.0
+Wealden,5.0,5.0
+West Berkshire,5.0,5.0
+West Oxfordshire,5.0,5.0
+Winchester,6.0,6.1
+Windsor and Maidenhead,6.8,6.6
+Woking,6.2,6.0
+Wokingham,7.0,6.8
+Worthing,5.0,5.0
+Bath and North East Somerset,6.8,6.9
+"Bournemouth,Christchurch and Poole",5.0,5.0
+"Bristol,City of",8.0,7.8
+Cheltenham,6.2,6.2
+Cornwall,5.0,5.0
+Cotswold,5.0,5.0
+Dorset,5.0,5.0
+East Devon,5.0,5.0
+Exeter,6.0,6.0
+Forest of Dean,5.0,5.0
+Gloucester,6.0,6.1
+Isles of Scilly,3.8,4.5
+Mid Devon,5.0,5.0
+North Devon,5.0,5.0
+North Somerset,5.0,5.0
+Plymouth,5.6,5.5
+Somerset,5.0,5.0
+South Gloucestershire,5.0,5.0
+South Hams,5.0,5.0
+Stroud,5.0,5.0
+Swindon,6.0,6.1
+Teignbridge,5.0,5.0
+Tewkesbury,5.0,5.0
+Torbay,4.2,3.8
+Torridge,4.7,5.0
+West Devon,5.0,5.0
+Wiltshire,5.0,5.0
+Birmingham,8.0,7.2
+Bromsgrove,5.0,5.0
+Cannock Chase,5.0,5.0
+Coventry,6.8,6.6
+Dudley,5.0,5.0
+East Staffordshire,5.0,5.0
+"Herefordshire,County of",5.0,5.0
+Lichfield,5.0,5.0
+Malvern Hills,5.0,5.0
+Newcastle-under-Lyme,5.0,5.0
+North Warwickshire,5.0,5.0
+Nuneaton and Bedworth,5.0,5.0
+Redditch,5.0,5.0
+Rugby,5.0,5.0
+Sandwell,5.0,5.0
+Shropshire,5.0,5.0
+Solihull,5.0,5.0
+South Staffordshire,5.0,5.0
+Stafford,5.0,5.0
+Staffordshire Moorlands,5.0,5.0
+Stoke-on-Trent,5.0,5.0
+Stratford-on-Avon,5.0,5.0
+Tamworth,5.0,5.0
+Telford and Wrekin,5.0,5.0
+Walsall,5.0,5.0
+Warwick,5.0,5.0
+Wolverhampton,5.0,5.0
+Worcester,5.0,5.0
+Wychavon,5.0,5.0
+Wyre Forest,5.0,5.0
+Blaenau Gwent,5.0,5.0
+Bridgend,5.0,5.0
+Caerphilly,5.0,5.0
+Cardiff,7.2,7.2
+Carmarthenshire,5.0,5.0
+Ceredigion,3.8,4.5
+Conwy,5.0,5.0
+Denbighshire,5.0,5.0
+Flintshire,5.0,5.0
+Gwynedd,3.8,4.5
+Isle of Anglesey,5.0,5.0
+Merthyr Tydfil,5.0,5.0
+Monmouthshire,5.0,5.0
+Neath Port Talbot,5.0,5.0
+Newport,5.0,5.0
+Pembrokeshire,5.0,5.0
+Powys,3.8,4.5
+Rhondda Cynon Taf,5.0,5.0
+Swansea,5.8,5.8
+Torfaen,5.0,5.0
+Vale of Glamorgan,5.0,5.0
+Wrexham,5.0,5.0
+Barnsley,5.0,5.0
+Bradford,6.2,6.0
+Calderdale,5.0,5.0
+Doncaster,6.2,6.0
+East Riding of Yorkshire,5.0,5.0
+"Kingston upon Hull,City of",6.2,6.0
+Kirklees,5.0,5.0
+Leeds,8.2,7.8
+North East Lincolnshire,5.0,5.0
+North Lincolnshire,5.0,5.0
+North Yorkshire,6.2,6.0
+Rotherham,5.0,5.0
+Sheffield,6.8,6.6
+Wakefield,6.2,6.0
+York,6.2,6.4
