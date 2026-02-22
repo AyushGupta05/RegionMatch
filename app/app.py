@@ -1,4 +1,5 @@
 ﻿import os
+from pathlib import Path
 import joblib
 import streamlit as st
 import pandas as pd
@@ -133,20 +134,29 @@ def minmax_series(s):
     return (s - s.min()) / (s.max() - s.min())
 
 def safe_dataset_path():
-    """Prefer geo -> clean -> v1."""
-    if os.path.exists("training_data_geo.csv"):
-        return "training_data_geo.csv"
-    if os.path.exists("training_data_clean.csv"):
-        return "training_data_clean.csv"
-    return "training_data_v1.csv"
+    """Prefer geo -> clean -> v1, checking repo and processed folders."""
+    candidates = [
+        REPO_ROOT / "data" / "processed" / "training_data_geo.csv",
+        REPO_ROOT / "training_data_geo.csv",
+        REPO_ROOT / "data" / "processed" / "training_data_clean.csv",
+        REPO_ROOT / "training_data_clean.csv",
+        REPO_ROOT / "training_data_v1.csv",
+    ]
+    for path in candidates:
+        if path.exists():
+            return str(path)
+    raise FileNotFoundError("No training dataset found in expected locations.")
+
+
+REPO_ROOT = Path(__file__).resolve().parents[1]
 
 # ============================================================
 # LOAD MODEL & DATA
 # ============================================================
 @st.cache_resource
 def load_model():
-    model = joblib.load("models/location_model.joblib")
-    features = joblib.load("models/model_features.joblib")
+    model = joblib.load(REPO_ROOT / "models" / "location_model.joblib")
+    features = joblib.load(REPO_ROOT / "models" / "model_features.joblib")
     return model, features
 
 @st.cache_data
@@ -190,10 +200,18 @@ view_state = pdk.ViewState(
 # MODEL SCORING
 # ============================================================
 # Ensure prediction matrix is numeric and aligned
-X = df[feature_list].copy()
+missing_features = [f for f in feature_list if f not in df.columns]
+if missing_features:
+    st.warning(
+        f"{len(missing_features)} model features were missing in the dataset; "
+        "they were added as 0 so scoring can continue."
+    )
+
+X = df.reindex(columns=feature_list).copy()
 for c in X.columns:
     X[c] = pd.to_numeric(X[c], errors="coerce")
 X = X.fillna(X.median(numeric_only=True))
+X = X.fillna(0)
 
 base = pipe.predict(X)
 
