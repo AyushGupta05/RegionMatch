@@ -53,7 +53,7 @@ Each region is represented as a structured feature vector.
 
 We built our own machine learning model to compute a compatibility score between:
 
-- A business profile (industry, size, urgency, etc.)
+- A business profile (industry, size, urgency)
 - Every UK region
 
 The model evaluates how well each region matches the business owner’s requirements and outputs a numeric score per region.
@@ -66,29 +66,9 @@ This ML model is entirely our own.
 
 ### 3. Gemini Integration (Human-Readable Output)
 
-We use Gemini only for one purpose:
-
-➡️ Translating the numerical output of our ML model into natural-language explanations.
-
-Example:
-
-> “Cambridge scores highly due to strong tech presence and above-average skilled labour availability.”
-
-Gemini does NOT influence scoring, prediction, or ranking — it purely converts model results into readable sentences.
+Gemini is used only to translate model outputs into readable explanations — it does not affect scoring or ranking..
 
 ---
-
-## 🖥️ User Interface
-
-The UI allows users to specify:
-
-- UK city / region focus  
-- Industry type  
-- Desired employee count  
-- Hiring urgency  
-- Client proximity preference  
-- Cost sensitivity  
-- Skill specificity  
 
 ### Output
 
@@ -98,8 +78,6 @@ A table showing:
 
 - Region name
 - Compatibility score (from ~100 downward)
-
-Top rows represent the most compatible regions.
 
 ---
 
@@ -116,18 +94,6 @@ This gives users an instant geographic understanding of opportunity hotspots.
 
 ---
 
-## ✨ Key Features
-
-- Machine-learning-based regional scoring  
-- Multi-factor business compatibility engine  
-- Human sentiment injection via Reddit data  
-- Interactive 3D UK map  
-- Ranked region recommendations  
-- Natural-language explanations via Gemini  
-- Fully customizable business inputs  
-
----
-
 ## 🛠 Tech Stack (High Level)
 
 - Python (data processing + ML)
@@ -139,4 +105,4 @@ This gives users an instant geographic understanding of opportunity hotspots.
 
 ---
 
-Built during a hackathon to showcase how ML + geospatial data can support smarter business expansion decisions across the UK.
+Ideated and built during LondonHack 2026 to showcase how ML + geospatial data can support smarter business expansion decisions across the UK.
