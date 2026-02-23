@@ -71,6 +71,14 @@ st.markdown("""
   border-right: 1px solid rgba(148, 163, 184, 0.12);
 }
 
+/* Force all sidebar content to white (text + icons) */
+[data-testid="stSidebar"] *,
+[data-testid="stSidebar"] *::before,
+[data-testid="stSidebar"] *::after {
+  color: #ffffff !important;
+  fill: #ffffff !important;
+}
+
 .block-container {
     padding: 0.6rem 1rem;
   max-width: 100%;
@@ -201,7 +209,17 @@ st.markdown("""
 select {
   background: rgba(30, 41, 59, 0.6) !important;
   border: 1px solid rgba(148, 163, 184, 0.2) !important;
-  color: #e2e8f0 !important;
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+
+/* Keep sidebar input/selected values black */
+[data-testid="stSidebar"] [data-testid="stTextInput"] input,
+[data-testid="stSidebar"] [data-testid="stNumberInput"] input,
+[data-testid="stSidebar"] textarea,
+[data-testid="stSidebar"] select,
+[data-testid="stSidebar"] [data-baseweb="select"] * {
+  color: #000000 !important;
 }
 
 /* Container borders */
